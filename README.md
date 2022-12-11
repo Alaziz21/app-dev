@@ -16,9 +16,9 @@
 # Transformers (2007)
  *An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, the ultimate power held by a teenager*
 
-| Director: | Doug Liman |
+| Director:   | Doug Liman |
 | ----------- | ----------- |
-| Stars: | Franka Potente |
+| Stars:      | Franka Potente |
 | Matt Damon, Matt Damon | Chris Cooper, Clive Owen|
 
 # The Good Doctor 
